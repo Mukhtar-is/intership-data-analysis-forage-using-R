@@ -1,8 +1,11 @@
 # Data-analysis-with-quantium-forage-using-R
 
+## Introduction:
 Quantium, which was established in 2002, has a long history of data science innovation in various spheres of the business. They are committed to building a team of aspirational, varied, and enjoyable people as a fast expanding worldwide leader in data science and AI.
 
 For the past few years, Quantium has shared transactional and consumer data with a significant grocery brand. As a member of the Quantium analytics team, it is our duty to provide the business with valuable data analytics and insights to aid in strategic decision-making.
+
+# Objectives:
 
 ## Task 1: Data preparation and customer analytics
 
