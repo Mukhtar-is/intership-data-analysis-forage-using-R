@@ -38,3 +38,8 @@ Use your analytics and insights from Task 1 and 2 to prepare a report for your c
 - As best practice at Quantium, we like to use the “Pyramid Principles” framework when putting together a report for our clients. If you are not already familiar with this framework you can find quick introductions on by searching form them on the internet.
 
 - For this report, we need to include data visualisations, key callouts, insights as well as recommendations and/or next steps.
+
+
+
+
+### NOTE: There are additional files that can help you all about basics in R-programming. "Waxa ku jira files dheeri ah oo kaa caawinaya wax kasta oo aad uga baahantahay luqada R bilowgeeda. Wuxu ka kooban yahay dhamaan qodobada lagama maarmaanka ay tahay in aad ka taqaanid luqada R".
