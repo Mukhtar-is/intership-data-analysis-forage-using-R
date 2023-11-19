@@ -5,6 +5,11 @@ Quantium, which was established in 2002, has a long history of data science inno
 
 For the past few years, Quantium has shared transactional and consumer data with a significant grocery brand. As a member of the Quantium analytics team, it is our duty to provide the business with valuable data analytics and insights to aid in strategic decision-making.
 
+
+# Overview
+This virtual experience program involves analysing chip purchases at supermarkets. The aim of this project was to evaluate different customers' purchasing behaviours and the performance of trial stores with a new layout to provide insights of customer preferences to the client and a recommendation of whether the trial has been successful.
+
+
 # Objectives:
 
 ## Task 1: Data preparation and customer analytics
